@@ -1,0 +1,28 @@
+{	
+	"stateName":"Gujarat",
+	
+	"districtId":326,
+	"unitData": [
+    {
+        "unit" : "Rajkot",
+        "value" : 0,
+		"amount" : 1000
+    },
+	
+	{
+        "unit" : "Amreli",
+        "value" : 480
+    },
+	
+	{
+        "unit" : "ABC",
+        "value" : 280
+    }
+	,
+	{
+        "unit" : "XYZ",
+        "value" : 100
+    }
+	
+]
+}

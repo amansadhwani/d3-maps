@@ -1,0 +1,40 @@
+{	
+	"stateName":"Gujarat",
+	
+	"districtId":326,
+	"unitData": [
+    {
+        "unit" : "Borsad",
+        "value" : 150,
+		"amount" : 1000
+    },
+	
+	{
+        "unit" : "Nadiad",
+        "value" : 480
+    },
+	
+	{
+        "unit" : "Bardoli",
+        "value" : 50
+    },
+	
+	
+	{
+        "unit" : "Kamrej",
+        "value" : 10
+    },
+	{
+        "unit" : "Chorasi",
+        "value" : 960
+    },
+	
+	
+	
+	{
+        "unit" : "Anand",
+        "value" : 480
+    }
+	
+]
+}

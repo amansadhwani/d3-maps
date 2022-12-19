@@ -1,0 +1,28 @@
+{	
+	"stateName":"Kheda",
+	
+	"districtId":326,
+	"unitData": [
+    {
+        "unit" : "Thane",
+        "value" : 2900,
+		"amount" : 1000
+    },
+	
+	{
+        "unit" : "Anand",
+        "value" : 4800
+    },
+	
+	{
+        "unit" : "Petlad",
+        "value" : 2800
+    }
+	,
+	{
+        "unit" : "Khambhat",
+        "value" : 1800
+    }
+	
+]
+}

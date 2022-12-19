@@ -1,0 +1,156 @@
+{	
+	"stateName":"Gujarat",
+	"districtId":326,
+	"unitData": [
+    {
+        "unit" : "Thane",
+        "value" : 10
+    },
+	{
+        "unit" : "Dhule",
+        "value" : 15
+    },
+	{
+        "unit" : "Garhchiroli",
+        "value" : 20
+    },
+	{
+        "unit" : "Gondiya",
+        "value" : 25
+    },
+	
+	{
+        "unit" : "Nandurbar",
+        "value" : 35
+    },
+	{
+        "unit" : "Raigarh",
+        "value" : 40
+    },
+	{
+        "unit" : "Bhandara",
+        "value" : 45
+    },
+	{
+        "unit" : "Hingoli",
+        "value" : 50
+    },
+	{
+        "unit" : "Latur",
+        "value" : 55
+    },
+	{
+        "unit" : "Satara",
+        "value" : 60
+    },
+	{
+        "unit" : "Sindhudurg",
+        "value" : 65
+    },
+	{
+        "unit" : "Bid",
+        "value" : 70
+    },
+	
+    {
+        "unit" : "Osmanabad",
+        "value" : 80
+    },
+    {
+        "unit" : "Nanded",
+        "value" : 85
+    },
+	{
+        "unit" : "Akola",
+        "value" : 90
+    },
+	{
+        "unit" : "Amravati",
+        "value" : 95
+    },
+	{
+        "unit" : "Buldana",
+        "value" : 10
+    },
+	{
+        "unit" : "Yavatmal",
+        "value" : 5
+    },
+	{
+        "unit" : "Washim",
+        "value" : 18
+    },
+	{
+        "unit" : "Nashik",
+        "value" : 36
+    },
+	{
+        "unit" : "Aurangabad",
+        "value" : 88
+    },
+	{
+        "unit" : "Greater Bombay",
+        "value" : 16
+    },
+	{
+        "unit" : "Jalgaon",
+        "value" : 60
+    },
+	{
+        "unit" : "Solapur",
+        "value" : 70
+    },
+	{
+        "unit" : "Sangli",
+        "value" : 80
+    },
+	{
+        "unit" : "Kolhapur",
+        "value" : 40
+    },
+	{
+        "unit" : "Pune",
+        "value" : 25
+    },
+	{
+        "unit" : "Nagpur",
+        "value" : 80
+    },
+	
+	{
+        "unit" : "Chandrapur",
+        "value" : 45
+    },
+	
+
+	{
+        "unit" : "Wardha",
+        "value" : 19
+    },
+	{
+        "unit" : "Ahmednagar",
+        "value" : 20
+    },
+	{
+        "unit" : "Parbhani",
+        "value" : 29
+    },
+	{
+        "unit" : "Garhchiroli",
+        "value" : 36
+    },
+	{
+        "unit" : "Jalna",
+        "value" : 8888
+    },
+	{
+        "unit" : "Ratnagirie",
+        "value" : 95
+    },
+	{
+        "unit" : "abc",
+        "value" : 95
+    }
+	
+]
+}

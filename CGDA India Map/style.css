@@ -1,0 +1,55 @@
+svg{
+    border: 1px solid #d9d9d9;
+}
+
+.states{
+    fill : transparent;
+    stroke: blue;
+}
+
+.districts{
+    fill : transparent;
+    stroke: blue;
+}
+
+.taluka path{
+    fill : #d9d9d9;
+    stroke: green;
+}
+
+path.outline {
+    stroke: #000;
+    fill : transparent;
+}
+
+.heatScale,
+.legend-unit{
+    outline: 1px solid #ccc;
+}
+
+.legend-tick{
+    fill: #888;
+    text-anchor: start;
+    /*font-weight: bold;*/
+    font-size: 10px;
+}
+
+.show-data-tooltip{
+    background: red;
+}
+
+.hide-data-tooltip{
+    background: green;
+}
+
+div.tooltip { 
+          position: absolute;     
+          text-align: center;     
+          width: 80px;          
+          height: 14px;         
+          padding: 2px;       
+          font: 12px sans-serif;    
+          background: #fff; 
+          border: 0px;        
+          pointer-events: none;     
+      }
